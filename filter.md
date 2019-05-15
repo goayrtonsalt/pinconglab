@@ -6,3 +6,12 @@
 * 按发帖时间排序，[所有](https://pincong.rocks/sort_type-t)， [带推荐](https://pincong.rocks/sort_type-t__is_recommend-1)
 * [按回复数量，带推荐](https://pincong.rocks/sort_type-hot__is_recommend-1)
 * [按更新时间，带推荐](https://pincong.rocks/sort_type-new__is_recommend-1)
+
+## 不同板块的推荐贴
+* [时政](https://pincong.rocks/explore/category-1__is_recommend-1)
+* [财经](https://pincong.rocks/explore/category-2__is_recommend-1)
+* [世界](https://pincong.rocks/explore/category-3__is_recommend-1)
+* [科技](https://pincong.rocks/explore/category-4__is_recommend-1)
+* [文娱](https://pincong.rocks/explore/category-5__is_recommend-1)
+* [生活](https://pincong.rocks/explore/category-6__is_recommend-1)
+* [其他](https://pincong.rocks/explore/category-7__is_recommend-1)
