@@ -1,11 +1,11 @@
 [README](./README.md)
 
 ## 不同的首页机制
-1 [无回复 是推荐](https://pincong.rocks/sort_type-unresponsive__is_recommend-1)
-2 按回复数量排序，涵盖范围：[14日](https://pincong.rocks/sort_type-hot____day-14)，[10日](https://pincong.rocks/sort_type-hot____day-10)，[5日](https://pincong.rocks/sort_type-hot____day-5)， [3日](https://pincong.rocks/sort_type-hot____day-3)，[2日](https://pincong.rocks/sort_type-hot____day-2)
-3 按发帖时间排序，[所有](https://pincong.rocks/sort_type-t)， [带推荐](https://pincong.rocks/sort_type-t__is_recommend-1)
-4 [按回复数量，带推荐](https://pincong.rocks/sort_type-hot__is_recommend-1)
-5 [按更新时间，带推荐](https://pincong.rocks/sort_type-new__is_recommend-1)
+1. [无回复 是推荐](https://pincong.rocks/sort_type-unresponsive__is_recommend-1)
+2. 按回复数量排序，涵盖范围：[14日](https://pincong.rocks/sort_type-hot____day-14)，[10日](https://pincong.rocks/sort_type-hot____day-10)，[5日](https://pincong.rocks/sort_type-hot____day-5)， [3日](https://pincong.rocks/sort_type-hot____day-3)，[2日](https://pincong.rocks/sort_type-hot____day-2)
+3. 按发帖时间排序，[所有](https://pincong.rocks/sort_type-t)， [带推荐](https://pincong.rocks/sort_type-t__is_recommend-1)
+4. [按回复数量，带推荐](https://pincong.rocks/sort_type-hot__is_recommend-1)
+5. [按更新时间，带推荐](https://pincong.rocks/sort_type-new__is_recommend-1)
 
 ## 不同板块的推荐贴
 * [时政](https://pincong.rocks/explore/category-1__is_recommend-1)
