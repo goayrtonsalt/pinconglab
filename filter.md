@@ -16,7 +16,7 @@
 * [生活](https://pincong.rocks/explore/category-6__is_recommend-1)
 * [其他](https://pincong.rocks/explore/category-7__is_recommend-1)
 
-## 不同板块的热门贴
+## 不同板块的5日热门贴
 * [时政](https://pincong.rocks/explore/category-1__sort_type-hot____day-5)
 * [财经](https://pincong.rocks/explore/category-2__sort_type-hot____day-5)
 * [世界](https://pincong.rocks/explore/category-3__sort_type-hot____day-5)
